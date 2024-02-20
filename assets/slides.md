@@ -15,9 +15,7 @@ title: "01_function_scope"
 #### Guidelines
 
 <div style="display: flex; flex-direction: row">
-  <div style="width: 30%">
-    <div style='position:relative; padding-bottom:calc(75.00% + 44px)'><iframe src='https://gfycat.com/ifr/SafeGloriousIslandcanary' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div><p> <a href="https://gfycat.com/safegloriousislandcanary-international-man-of-mystery-austin-powers">via Gfycat</a></p>
-  </div>
+ 
   <div style="width: 70%">
 
   - The more you participate the more you learn! 
@@ -96,7 +94,7 @@ Extension | Description |
 # Functions
 
 <p align="center">
-    <img src="functions.jpeg" width="250" height="250">
+    <img src="functions.jpeg" width="400" height="250">
 </p>
 
 <aside class="notes">
