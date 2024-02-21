@@ -108,10 +108,10 @@ function formatPriceFunctionDefinition(price) {
 //   fixedPrice = price.toFixed(2)
 //   return `$${fixedPrice}`
 // }
-const formatPriceArrowFunction = () => {
-  fixedPrice = price.toFixed(2)
-  return `$${fixedPrice}`
-}
+// const formatPriceArrowFunction = () => {
+//   fixedPrice = price.toFixed(2)
+//   return `$${fixedPrice}`
+// }
 
 // const formatPriceArrowFunction = function(price){
 //   fixedPrice = price.toFixed(2)
@@ -202,11 +202,6 @@ const timesTwo = numbersTwo.map((el) => {
   return el * 2
 })
 
-
-const numbersTwo = [6, 8, 10, 13]
-const timesTwo = numbersTwo.map ((el) => {
-  return el * 2
-})
 //✅ 6. Create a version of myMap that uses a for loop to mimic .map
 //input: array, callback function
 //output: a new array
